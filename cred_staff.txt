@@ -1,0 +1,5 @@
+staff_aadel, b'$2b$12$znJUk3jzKzgOPjTfzVVmLu.kNYXFDiaBUhmSiq0zQ9LnvQcyP0vXW'
+staff_hira, b'$2b$12$XILrASzwqiVNkxYHsUc2Zeflas45KeSTJ4wtfnmvEjEM.pmzjWZqS'
+sadia, b'$2b$12$eZrjN/bHLwGPdMGc0PQrbedIOYH7DgqVKM95tkvDwv/lje50IUCkC'
+penguin_i, b'$2b$12$cXrhFNkeq2wc4ktZ4kpwJ.I2SCvcgZTVUoA9tLjyqrOHjOu8kY6r.'
+abd123, b'$2b$12$KB7fgVfldRSM5dhxCr5DNOtkIA0Y/uTekqCZo2TVAQaPcXLLuix1i'

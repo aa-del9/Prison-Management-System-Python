@@ -1,0 +1,2 @@
+admin_aadel, b'$2b$12$H14uG1vtx25n1NthYobrtO411XvUKnY8CYR30xxL9G1tougZOccz2'
+admin_hira, b'$2b$12$8USkC0EHQi.hRrEiDyIUbuXXbirnhSU6QHxeH7kthwd/XMVY8.VnS'
